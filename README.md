@@ -6,6 +6,6 @@
 - **Dibuat Oleh:**    
     - **Nama   :** Ardi Yoga Pangestu
     - **NPM    :** 24552012015
-    - **Kelas  :** TIF RP-CNS A
+    - **Kelas  :** TIF RP-23 CNS A
 # Judul Studi Kasus
 **Alarm & Pengingat**
